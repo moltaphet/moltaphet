@@ -45,16 +45,11 @@ languages: [Persian/Dari, English]
 
 <br/>
 
-## 📊 GitHub Stats
+## 📊 GitHub Streak
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=moltaphet&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A63FF&icon_color=26A5E4&text_color=c9d1d9" />
 <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=moltaphet&theme=radical&hide_border=true&background=0D1117&ring=8A63FF&fire=26A5E4&currStreakLabel=8A63FF" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moltaphet&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A63FF&text_color=c9d1d9" />
 
 </div>
 
