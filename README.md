@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A63FF,100:26A5E4&height=220&section=header&text=Moltaphet&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Builder%20%7C%20Web3%20%26%20Crypto%20Community&descAlignY=58&descSize=20" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=8A63FF&center=true&vCenter=true&width=600&lines=Onchain+%2B+Onboarding+%2B+Content;Community+Manager+%7C+Alpha+Hunter;Building+in+the+Soneium+Ecosystem" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=8A63FF&center=true&vCenter=true&width=600&lines=Onchain+%2B+Onboarding+%2B+Content;Community+Manager+%7C+Alpha+Hunter;Trader+%7C+Project+Analyst" />
 
 <br/>
 
@@ -23,14 +23,12 @@
 role: Community Manager & Builder
 focus: [Web3, Crypto, Onchain Onboarding, Content Creation]
 languages: [Persian/Dari, English]
-currently: Exploring & building in the Soneium ecosystem
 ```
 
 - 🔧 **Builder** who ships code, not just talks about it
 - 🌐 Deeply active in the **Web3 / Crypto** ecosystem — following, testing, and contributing to projects
 - 📢 Run an engaged **Telegram community** ([@notronfa](https://t.me/notronfa)) focused on crypto & onchain topics
 - ✍️ Create **guides & content in Persian/Dari** to help more people take their first onchain steps
-- 🧭 Currently exploring the **Soneium** ecosystem and helping onboard new users
 - 📈 Alpha hunter, trader, and project analyst
 
 <br/>
@@ -39,16 +37,6 @@ currently: Exploring & building in the Soneium ecosystem
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py,js,nodejs,git,github,html,css,solidity&theme=dark" />
-</div>
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
 </div>
 
 <br/>
