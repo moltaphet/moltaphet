@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./profile-banner.png" width="100%" alt="Moltaphet Header"/>
+<img src="https://github.com/user-attachments/assets/47189ef7-8a7c-475c-a831-758bb0791f68" width="100%" alt="Moltaphet Header"/>
 
 <br/><br/>
 
