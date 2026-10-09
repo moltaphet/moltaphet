@@ -1,65 +1,24 @@
-<div align="center">
+### hi, i'm ehsan
 
-<img src="https://github.com/user-attachments/assets/47189ef7-8a7c-475c-a831-758bb0791f68" width="100%" alt="Moltaphet Header"/>
+community manager and builder in web3. i write smart contracts, ship small dapps, and help persian/dari speakers take their first steps onchain.
 
-<br/><br/>
+- building intelligent contracts on GenLayer
+- running the [@notronfa](https://t.me/notronfa) telegram community
+- writing project research and onchain guides
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=8A63FF&center=true&vCenter=true&width=600&lines=Onchain+%2B+Onboarding+%2B+Content;Community+Manager+%7C+Alpha+Hunter;Trader+%7C+Project+Analyst" />
+#### projects
 
-<br/>
+| project | what it does | stack |
+|---|---|---|
+| [LexiTreasury](https://github.com/moltaphet/LexiTreasury) | open-source grant treasury contract | python · genlayer |
+| [westphalia](https://github.com/moltaphet/westphalia) | intelligent contract with frontend and agents | typescript · genlayer |
+| [TruScore](https://github.com/moltaphet/TruScore) | onchain solvency-score oracle | python · genlayer |
+| [ApexRisk](https://github.com/moltaphet/Apexrisk) | defi risk-parameter engine | python · genlayer |
 
-<a href="https://t.me/notronfa"><img src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-<a href="https://x.com/0xehs4hn"><img src="https://img.shields.io/badge/-Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-<a href="https://github.com/moltaphet"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+#### stack
 
-<br/>
+python · javascript · typescript · node.js · html/css · git
 
-<img src="https://komarev.com/ghpvc/?username=moltaphet&style=flat-square&color=8A63FF&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/moltaphet?style=flat-square&color=26A5E4&label=FOLLOWERS" />
+#### contact
 
-</div>
-
-<br/>
-
-## 🚀 About Me
-
-```yaml
-role: Community Manager & Builder
-focus: [Web3, Crypto, Onchain Onboarding, Content Creation]
-languages: [Persian/Dari, English]
-```
-
-- 🔧 **Builder** who ships code, not just talks about it
-- 🌐 Deeply active in the **Web3 / Crypto** ecosystem — following, testing, and contributing to projects
-- 📢 Run an engaged **Telegram community** ([@notronfa](https://t.me/notronfa)) focused on crypto & onchain topics
-- ✍️ Create **guides & content in Persian/Dari** to help more people take their first onchain steps
-- 📈 Alpha hunter, trader, and project analyst
-
-<br/>
-
-## 🛠️ Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,nodejs,git,github,html,css,solidity&theme=dark" />
-</div>
-
-<br/>
-
-## 📊 GitHub Streak
-
-<div align="center">
-
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=moltaphet&theme=radical&hide_border=true&background=0D1117&ring=8A63FF&fire=26A5E4&currStreakLabel=8A63FF" />
-
-</div>
-
-<br/>
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://t.me/notronfa"><img src="https://img.shields.io/badge/Telegram-Join%20Community-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<a href="https://x.com/0xehs4hn"><img src="https://img.shields.io/badge/X-Follow%20Me-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-
-</div>
+[x](https://x.com/0xehs4hn) · [telegram](https://t.me/notronfa) · ethehs4n@gmail.com
